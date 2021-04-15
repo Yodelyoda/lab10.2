@@ -1,3 +1,4 @@
 ﻿  lab10.2.cpp
-C:\Users\Yoda\source\repos\lab10.2\lab10.2.cpp(27): warning C4101: 'str2': unreferenced local variable
+C:\Users\Yoda\source\repos\lab10.2\lab10.2.cpp(10): warning C4101: 'ch': unreferenced local variable
+C:\Users\Yoda\source\repos\lab10.2\lab10.2.cpp(35): warning C4101: 'str2': unreferenced local variable
   lab10.2.vcxproj -> C:\Users\Yoda\source\repos\lab10.2\Debug\lab10.2.exe
